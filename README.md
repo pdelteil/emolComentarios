@@ -8,3 +8,9 @@ Los comentarios de emol son una especie de hoyo negro. Sabemos que quienes opina
 - Caja de comentarista destacado. (sitio principal)
 - Seccion de login para realizar comentario. (En noticia especifica) 
 - Caja de comentarios. (En noticia especifica) 
+
+
+# Instalar 
+
+1. Por el momento está pendiente la aprobación de la extensión en el sitio de Firefox
+2. Instalación manual 
