@@ -8,7 +8,7 @@ for (const classToHide of divsToHide) {
   }
 }
 
-const divIdsToHide = ["divShow_more_btn", "comentarios", "cajaMasValorados", "cuDetalle_ucColumnista_cont_caja_columnista", "cuDetalle_cuBarraSocial_redesSociales"];
+const divIdsToHide = ["divShow_more_btn", "comentarios", "cajaMasValorados", "cuDetalle_ucColumnista_cont_caja_columnista", "cuDetalle_cuBarraSocial_redesSociales","ucHomePage_cuColumnista_cont_caja_columnista"];
 
 for (const idToHide of divIdsToHide) {
   const divToHide = document.getElementById(idToHide);
