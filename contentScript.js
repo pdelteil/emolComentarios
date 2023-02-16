@@ -29,11 +29,3 @@ for (let i = 0; i < spansComments.length; i++) {
   span1.style.display = "none";
 }
 
-const links = document.getElementsByTagName("a");
-for (let i = 0; i < links.length; i++) {
-  const link = links[i];
-  if (link.href.includes("#comentarios")) {
-    const newUrl = link.href.replace("#comentarios", "");
-    link.href = newUrl;
-  }
-}
