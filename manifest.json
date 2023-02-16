@@ -1,12 +1,12 @@
 {
   "manifest_version": 2,
-  "name": "Hide Div Element Extension",
+  "name": "EMOL.com comments remover",
   "version": "1.0",
-  "description": "Hides a specific div element on a website",
+  "description": "Removes all types of references to comments on the site emol.com.",
   "permissions": ["activeTab"],
   "content_scripts": [
     {
-      "matches": ["<all_urls>"],
+      "matches": ["*://*.emol.com/*"],
       "js": ["contentScript.js"]
     }
   ]
