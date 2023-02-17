@@ -14,3 +14,6 @@ Los comentarios de emol son una especie de hoyo negro. Sabemos que quienes opina
 
 1. Por el momento está pendiente la aprobación de la extensión en el sitio de Firefox
 2. Instalación manual 
+   
+   - Descargar [zip](https://github.com/pdelteil/emolComentarios/blob/main/emolCommentRemover.zip)  (wget https://github.com/pdelteil/emolComentarios/blob/main/emolCommentRemover.zip)
+   - Escribir 'about:config'
